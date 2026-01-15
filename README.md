@@ -72,18 +72,13 @@
 ---
 
 ## 🌐 Connect With Me  
-
-<p align="left">
-<a href="https://www.linkedin.com/in/pandit-ranjit/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pandit-ranjit/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/er.ranjitpandit) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:er.ranjitpandit@gmail.com) 
 ---
 
 ## 🎯 Career Focus  
-> “Turning complex vehicle systems into reliable, safe, and production-ready ADAS solutions.”
-
+> “Driving safer and smarter mobility by delivering robust ADAS system and vehicle validation across EV, hybrid, and ICE platforms through automation, scenario-based testing, and end-to-end verification.”
 ---
 
 ⭐ If you like my work, feel free to follow or collaborate!
