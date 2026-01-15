@@ -15,7 +15,7 @@
 
 ## 🧠 Core Expertise  
 - ADAS System & Vehicle Validation  
-- Active Safety (AEB, ACC, LKA, BSM, APA)  
+- Active Safety (AEB, ACC, LKA, BSM), Automated Parking (APA, RPA), Parking aid (360 Surround vision, See through Bonnet)
 - Sensor Validation (Camera, Radar, Ultrasonic)  
 - CAN / UDS / DoIP Diagnostics  
 - Scenario-based HIL & VIL Testing  
